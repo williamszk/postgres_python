@@ -1,0 +1,10 @@
+*.ipynb
+*.ini
+
+project_env/
+spark-3.1.1-bin-hadoop2.7/
+Python-and-Spark-for-Big-Data-master/
+scripts_consultar/
+data/
+
+
